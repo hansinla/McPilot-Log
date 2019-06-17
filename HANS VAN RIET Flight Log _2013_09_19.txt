@@ -1,0 +1,286 @@
+DATE,ICAO,TAILNR,ROUTE,LEGS,DUR,LAND D,LAND N,ACT IFR,SIM IFR,APPR,NIGHT,FTD,X/C,PIC,DUAL,CFI,REM
+14 Jun 91,RALL,PH-RNC,EHHV-EHHV,1,0.7,1,,,,,,,,,0.7,,
+18 Jun 91,RALL,PH-RNC,EHHV-EHHV,1,0.8,1,,,,,,,,,0.8,,
+23 Jun 91,RALL,PH-AFG,EHHV-EHHV,1,0.9,1,,,,,,,,,0.9,,
+30 Jun 91,RALL,PH-AFG,EHHV-EHHV,1,1.2,1,,,,,,,,,1.2,,
+6 Jul 91,RALL,PH-AFG,EHHV-EHHV,1,1.1,1,,,,,,,,,1.1,,
+9 Jul 91,RALL,PH-AFG,EHHV-EHHV,1,1.0,1,,,,,,,,,1.0,,
+13 Jul 91,RALL,PH-AFG,EHHV-EHHV,1,1.9,1,,,,,,,,,1.9,,
+20 Jul 91,RALL,PH-AFG,EHHV-EHHV,1,0.8,1,,,,,,,,,0.8,,
+22 Jul 91,RALL,PH-DBX,EHHV-EHHV,1,0.9,1,,,,,,,,,0.9,,
+26 Jul 91,RALL,PH-RNC,EHHV-EHHV,1,0.8,1,,,,,,,,,0.8,,
+13 Aug 91,RALL,PH-RNC,EHHV-EHHV,1,1.0,1,,,,,,,,,1.0,,
+18 Aug 91,RALL,PH-AFG,EHHV-EHHV,1,1.1,1,,,,,,,,,1.1,,
+29 Aug 91,RALL,PH-AFG,EHHV-EHHV,1,0.8,1,,,,,,,,,0.8,,
+17 Sep 91,RALL,PH-AFG,EHHV-EHHV,1,0.9,1,,,,,,,,,0.9,,
+1 Oct 91,RALL,PH-AFG,EHHV-EHHV,1,0.5,1,,,,,,,,,0.5,,
+10 Oct 91,RALL,PH-RNC,EHHV-EHHV,1,1.2,1,,,,,,,,,1.2,,
+14 Oct 91,RALL,PH-AFG,EHHV-EHHV,1,0.8,1,,,,,,,,0.3,0.5,,First Solo
+24 Oct 91,RALL,PH-AFG,EHHV-EHHV,1,1.0,1,,,,,,,,1.0,1.0,,
+25 Oct 91,RALL,PH-RNB,EHHV-EHTX-EHHO-EHHV,3,3.2,3,,,,,,,3.2,3.2,3.2,,Navigation
+16 Jan 92,RALL,PH-RNC,EHHV-EHHV,1,0.9,11,,,,,,,,0.9,0.9,,
+23 Jan 92,RALL,PH-RNC,EHHV-EHHV,1,0.8,1,,,,,,,,0.8,0.8,,
+1 Mar 92,RALL,PH-RNC,EHHV-EHHV,1,0.8,1,,,,,,,,0.8,,,
+19 Mar 92,RALL,PH-RNC,EHHV-EHHV,1,0.9,1,,,,,,,,0.9,0.9,,
+7 Apr 92,RALL,PH-RNC,EHHV-EHRD-EHHV,1,1.3,5,,,,,,,1.3,1.3,1.3,,X-Wind
+10 Apr 92,RALL,PH-AFG,EHHV-EHHV,1,1.1,1,,,,,,,,1.1,1.1,,
+29 Apr 92,RALL,PH-AFG,EHHV-EHHV,1,0.9,1,,,,,,,,0.9,0.9,,
+7 May 92,RALL,PH-AFG,EHHV-EHHV,1,0.9,1,,,,,,,,0.9,0.9,,
+9 May 92,RALL,PH-RNC,EHHV-EHHV,1,1.1,1,,,,,,,1.1,1.1,,,Navigation
+13 May 92,RALL,PH-RNC,EHHV-EHHV,1,1.0,1,,,,,,,,1.0,1.0,,
+20 May 92,RALL,PH-AFG,EHHV-EHTX-EHHO-EHHV,3,3.5,3,,,,,,,3.5,3.5,,,Navigation
+28 May 92,RALL,PH-RNB,EHHV-EHHV,1,1.1,1,,,,,,,,1.1,1.1,,
+11 Jun 92,RALL,PH-DBX,EHHV-EHHV,1,1.3,1,,,,,,,,1.3,1.3,,
+20 Jul 92,RALL,PH-VAR,EHHV-EHHV,1,1.0,1,,,,,,,,1.0,1.0,,
+22 Jul 92,RALL,PH-VAR,EHHV-EHHV,1,0.8,5,,,,,,,,0.8,,,Check Ride/ A2 Examen
+23 Aug 92,RALL,PH-RNB,EHHV-EHTX-EHHV,2,1.9,2,,,,,,,1.9,1.9,,,Pax: Daniela Davis
+4 Mar 93,RALL,PH-RNB,EHHV-EHHV,1,0.9,1,,,,,,,,0.9,,,
+11 Mar 93,RALL,PH-VAR,EHHV-EHHV,1,1.1,1,,,1.0,,,,,1.1,1.1,,Basic IFR
+18 Mar 93,TAMP,PH-BEA,EHHV-EHHV,1,0.9,5,,,,,,,,0.9,0.9,,
+25 Mar 93,TAMP,PH-BEA,EHHV-EHHV,1,1.0,1,,,,,,,,1.0,,,Airplane Chechout
+6 Jun 93,RALL,PH-VAR,EHHV-EHHV,1,1.2,1,,,,,,,1.2,1.2,,,Pax: Marcel Kolder
+26 Jun 93,RALL,PH-VAR,EHHV-EHHV,1,0.3,1,,,,,,,,0.3,,,
+11 Aug 93,RALL,PH-RNC,EHHV-EHHV,1,0.8,1,,,,,,,,0.8,,,
+16 Aug 93,RALL,PH-RNC,EHHV-EHHV,1,0.7,1,,,,,,,,0.7,,,
+25 Aug 93,RALL,PH-RNC,EHHV-EHHV,1,1.1,1,,,,,,,,1.1,,,Pax: Henny Kortland
+29 Aug 93,RALL,PH-RNB,EHHV-EHTX-EHHV,2,1.9,1,,,,,,,1.9,1.9,,,
+5 Nov 93,RALL,PH-AFG,EHHV-EHHV,1,0.9,1,,,,,,,,0.9,,,
+27 Mar 94,RALL,PH-RNB,EHHV-EHHV,1,1.1,1,,,,,,,,1.1,,,Pax: Allard Wendrich
+9 Aug 94,RALL,PH-RNC,EHHV-EHMZ-EHBD-EHHV,3,3.3,3,,,,,,,3.3,3.3,,,
+1 Oct 94,C152,PH-PJM,EHAM-EHAM,1,1.3,1,,,1.3,,,,,1.3,1.3,,Basic IFR
+19 Oct 94,RALL,PH-VAR,EHHV-EHHV,1,1.3,1,,,,,,,,1.3,,,
+4 May 95,DV20,PH-USH,EHLE-EHLE,1,0.9,1,,,,,,,,0.9,0.9,,Airplane Checkout
+13 Jul 95,DV20,PH-USH,EHLE-EHTX-EHAL-EHLE,3,2.7,3,,,,,,,2.7,2.7,,,
+4 Aug 95,DV20,PH-USH,EHLE-EHMZ-EHLE,2,2.3,2,,,,,,,2.3,2.3,,,
+13 Aug 95,DV20,PH-USH,EHLE-EHLE,1,1.5,1,,,,,,,,1.5,,,SAIL 1995
+14 Aug 95,DV20,PH-USH,EHLE-EHLE,1,0.7,1,,,,,,,,0.7,0.7,,Prof Check
+4 Nov 95,SUBA,PH-JEJ,EHLE-EHLE,1,0.7,1,,,,,,,,0.7,0.7,,Basic Aerobatics
+30 Jan 96,DV20,PH-USH,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,,Pax: Berend Bruins
+18 Apr 96,BE23,PH-MBS,EHLE-LFRG-EGJB,2,5.5,2,,,,,,,5.5,5.5,,,Pax: Carla van der Boon
+19 Apr 96,BE23,PH-MBS,EGJB-EGJA-EGJJ-EGJB,3,2.5,3,,,,,,,2.5,2.5,,,Pax: Carla van der Boon
+20 Apr 96,BE23,PH-MBS,EGJB-LFAY-EBKT-EHLE,3,4.4,3,,,,,,,4.4,4.4,,,Pax: Carla van der Boon
+6 Oct 96,SUBA,PH-GIN,EHLE-EHLE,1,0.3,1,,,,,,,,0.3,,,Aerobatics
+15 Mar 97,DV20,PH-USH,EHLE-EHLE,1,0.7,1,,,,,,,,0.7,,,
+25 Mar 97,DV20,PH-USH,EHLE-EHLE,1,0.7,1,,,,,,,,0.7,,,
+29 Mar 97,DV20,PH-USI,EHLE-EHLE,1,1.1,1,,,1.1,,,,,1.1,1.1,,
+8 Apr 97,DV20,PH-USI,EHLE-EHTE-EHLE,2,1.5,2,,,,,,,1.5,1.5,,,
+11 Apr 97,F142,SIM,EHAM,1,,,,,,,,1.0,,,1.0,,
+15 Apr 97,F142,SIM,EHAM,1,,,,,,3,,1.3,,,1.3,,
+17 Apr 97,DV20,PH-USH,EHLE-EHHO-EHLE,2,1.4,2,,,,,,,1.4,1.4,,,
+8 May 97,DV20,PH-USI,EHLE-EHLE,1,1.2,1,,,1.2,,,,,1.2,,,
+12 May 97,DV20,PH-USI,EHLE-EHLE,1,1.5,1,,,,,,,,1.5,,,
+16 May 97,DV20,PH-USI,EHLE-EHLE,1,1.0,1,,,,,,,,1.0,,,
+20 May 97,RALL,PH-RNB,EHHV-EHHV,1,0.4,1,,,,,,,,0.4,,,
+22 May 97,DV20,PH-USJ,EHLE-EHLE,1,1.1,1,,,,,,,,1.1,,,
+3 Jun 97,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,,
+3 Jun 97,DV20,PH-USI,EHLE-EHLE,1,1.6,1,,,,,,,1.6,1.6,,,Check Ride/ A1 Examen
+8 Jun 97,C172,PH-AMB,EHLE-EHGG-EHLE,2,1.9,2,,,1.9,3,,,1.9,1.9,,,
+14 Jun 97,F142,SIM,EHAM,1,,,,,,2,,1.1,,,1.1,,
+23 Jun 97,C172,PH-AMB,EHLE-EHLE,1,1.0,1,,,0.5,,,,,1.0,,,
+28 Jul 97,PA28A,N82864,KPOC-KRAL-KPOC,2,1.0,2,,,0.9,3,,,,1.0,1.0,,
+28 Jul 97,F132,SIM,KPOC,1,,,,,,,,1.7,,,1.7,,
+29 Jul 97,PA28A,N2238B,KPOC-L35-KPOC,2,2.1,2,,,1.6,1,,,,2.1,2.1,,
+29 Jul 97,F132,SIM,KPOC,1,,,,,,,,1.2,,,1.2,,
+29 Jul 97,F132,SIM,KPOC,1,,,,,,,,1.3,,,1.3,,
+30 Jul 97,PA28A,N3008A,KPOC-KLGB-KPOC,2,1.4,2,,,1.4,1,,,,1.4,1.4,,
+30 Jul 97,F132,SIM,KPOC,1,,,,,,2,,1.7,,,1.7,,
+31 Jul 97,PA28A,N2925Q,KPOC-KLGB-KSMO-KPOC,3,2.3,2,,,2.3,3,,,,2.3,2.3,,
+31 Jul 97,PA28A,N82864,KPOC-KCNO-KPOC,2,2.0,1,,,2.0,8,,,,2.0,2.0,,
+1 Aug 97,PA28A,N8227L,KPOC-KOXR-KPOC,2,3.4,2,,,3.4,5,,,3.4,3.4,3.4,,
+1 Aug 97,F132,SIM,KPOC,1,,,,,,3,,1.3,,,1.3,,
+1 Aug 97,F132,SIM,KPOC,1,,,,,,2,,1.0,,,1.0,,
+2 Aug 97,PA28A,N3008A,KPOC-KCNO-KPOC,2,1.7,1,,,1.7,2,,,,1.7,1.7,,
+2 Aug 97,F132,SIM,KPOC,1,,,,,,,,1.4,,,1.4,,
+3 Aug 97,F132,SIM,KPOC,1,,,,,,,,1.3,,,1.3,,
+4 Aug 97,PA28A,N4385T,KPOC-KSBA-KSMX-KPOC,3,4.4,1,,,4.4,4,,,4.4,4.4,4.4,,
+5 Aug 97,PA28A,N8103X,KPOC-KCNO-KCCB-KPOC,3,2.5,2,,,2.3,7,,,,2.5,2.5,,
+5 Aug 97,F132,SIM,KPOC,1,,,,,,6,,1.6,,,1.6,,
+6 Aug 97,PA28A,N8460N,KPOC-KMYF-KPSP-KVNY-KPOC,4,5.6,1,,,5.6,4,,,5.6,5.6,5.6,,
+7 Aug 97,PA28A,N8460N,KPOC-KCNO-KPOC,2,2.4,1,,,2.4,7,,,,2.4,2.4,,
+7 Aug 97,F132,SIM,KPOC,1,,,,,,3,,1.0,,,1.0,,
+8 Aug 97,PA28A,N8395L,KPOC-KCNO-KPOC,2,1.8,1,,,1.8,3,,,,1.8,1.8,,
+9 Aug 97,PA28A,N8068J,KPOC-KOXR-KPOC,2,2.5,1,,2.5,2.5,3,,,2.5,2.5,,,
+10 Aug 97,PA28A,N8068J,KPOC-KCNO-KPOC,2,1.6,1,,,1.6,3,,,,1.6,1.6,,
+10 Aug 97,PA28A,N8068J,KPOC-KPOC,1,1.5,1,,,1.5,3,,,,1.5,,,Check Ride IFR rating
+10 Aug 97,PA28A,N8068J,KPOC-KCCB-KPOC,2,0.5,2,,,,,,,,0.5,,,
+3 Sep 97,F142,SIM,EHAM,1,,,,,,3,,1.3,,,1.3,,
+9 Oct 97,F142,SIM,EHAM,1,,,,,,6,,1.9,,,1.9,,
+21 Oct 97,BE23,PH-MBS,EHLE-EHGG-EHLE,2,2.0,1,,,1.9,3,,,2.0,2.0,,,
+28 Oct 97,C172,PH-AMB,EHLE-EGKB-EGNM,2,4.9,1,,,4.7,2,,,4.9,4.9,,,Pax: Allard Wendrich
+29 Oct 97,C172,PH-AMB,EGNM-EGMC-EHLE,2,4.8,1,,,4.5,1,,,4.8,4.8,,,Pax: Allard Wendrich
+9 Mar 98,C172,PH-TWB,EHLE-EHGG-EHLE,2,1.8,1,,,1.5,3,,,1.8,1.8,,,
+23 Apr 98,C172,N98650F,EHHO-EHHO,1,0.5,1,,,,,,,,0.5,,,Pax: Anita Nefkens
+3 May 98,C172,PH-TWB,EHLE-EHLE,1,0.7,1,,,0.7,,,,,0.7,,,
+31 May 98,DV20,PH-USH,EHLE-EHAL-EHLE,2,1.6,2,,,,,,,1.6,1.6,,,Pax: Daniela
+6 Jul 98,DV20,PH-USH,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,,
+30 Jul 98,C182,PH-LEF,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,,Airplane Checkout
+31 Jul 98,C182,PH-LEF,EHLE-EGKB-EGFE,2,4.7,2,,2.0,,,,,4.7,4.7,,,Pax: Daniela
+3 Aug 98,C182,PH-LEF,EGFE-EHLE,1,3.2,1,,2.8,,,,,3.2,3.2,,,Pax: Daniela
+17 Aug 98,PA28A,N9372C,KPOC-KSNA-KSMO-KPOC,3,2.4,1,,,1.9,1,,,2.4,2.4,,,
+17 Aug 98,PA28A,N2238B,KPOC-KCNO-KAJO-KONT-KPOC,4,1.7,1,5,,,,1.7,,,1.7,,,
+20 Aug 98,PA28A,N8227L,KPOC-KLPC-KPOC,2,5.3,1,,,,1,,,5.3,5.3,,,
+21 Aug 98,PA28A,N8227L,KPOC-KCNO-KPOC,2,1.9,1,,,1.7,4,,,,1.9,,,
+22 Aug 98,PA28A,N82864,KPOC-KMYF-KLGB-KPOC,3,2.8,3,,,,1,,,2.8,2.8,,,
+24 Aug 98,PA28A,N21803,KPOC-KSBA-KLPC-KPOC,3,4.5,3,,,0.5,3,,,4.5,4.5,,,Missed @ KLPC
+26 Aug 98,PA28A,N6231H,KPOC-KEED-KIPL-KPOC,3,5.8,3,,,,,,,5.8,5.8,,,
+12 Sep 98,DV20,PH-USI,EHLE-EHLE,1,1.8,1,,,1.3,3,,,1.8,1.8,1.8,,Via SPL / RTM
+20 Oct 98,F206,PH-AKE,EHAM,1,,,,,,2,,1.7,,,1.7,,QDM/QDR NDB
+23 Oct 98,F206,PH-EVS,EHAM,1,,,,,,,,1.3,,,1.3,,QDM/QDR NDB
+31 Oct 98,F206,PH-EVS,EHAM,1,,,,,,,,1.2,,,1.2,,QDM/QDR NDB
+4 Nov 98,F206,PH-EVS,EHAM,1,,,,,,,,1.4,,,1.4,,QDM/QDR NDB
+7 Nov 98,F206,PH-EVS,EHAM,1,,,,,,5,,1.3,,,1.3,,QDM/QDR NDB
+10 Nov 98,F206,PH-EVS,EHAM,1,,,,,,4,,1.5,,,1.5,,QDM/QDR NDB
+11 Nov 98,F206,PH-EVS,EHAM,1,,,,,,,,1.0,,,1.0,,Fix to Fix
+15 Nov 98,F206,PH-EVS,EHAM,1,,,,,,4,,1.0,,,1.0,,
+21 Nov 98,F206,PH-EVS,EHAM,1,,,,,,4,,1.0,,,1.0,,Steep Turns
+23 Nov 98,C172,PH-AMB,EHLE-EHLE,1,1.5,1,,,1.4,,,,,1.5,1.5,,
+25 Nov 98,IST1,SIM,EHAM,1,,,,,,,,1.3,,,1.3,,DEP. APPR. ENROUTE SPEEDS
+28 Nov 98,IST1,SIM,EHAM,1,,,,,,2,,1.5,,,1.5,,SID INTERCEPT STAR
+7 Dec 98,C172,PH-AMB,EHLE-EHGG-EHLE,2,2.4,2,,,1.9,3,,,2.4,2.4,2.4,,
+10 Dec 98,IST1,SIM,EHAM,1,,,,,,2,,1.3,,,1.3,,QDM/QDR SID
+20 Dec 98,IST1,SIM,EHAM,1,,,,,,2,,1.3,,,1.3,,QDM/QDR SID
+21 Dec 98,C172,PH-AMB,EHLE-EHKD-EHLE,2,2.0,1,1,,1.3,2,,,2.0,2.0,2.0,,
+22 Dec 98,F206,PH-EVS,EHAM,1,,,,,,4,,0.7,,,0.7,,DME ARCS
+22 Dec 98,IST1,SIM,EHAM,1,,,,,,2,,1.5,,,1.5,,QDR/QDM APPR
+28 Dec 98,C172,PH-AMB,EHLE-EHLE,1,1.3,1,,,1.3,,,,,1.3,1.3,,
+30 Dec 98,C172,PH-AMB,EHLE-EHLE,1,1.6,1,,,1.3,2,,,,1.6,1.6,,
+25 Jan 99,F206,PH-EVS,EHAM,1,,,,,,2,,2.2,,,2.2,,QDR/QDM
+28 Jan 99,C172,PH-AMB,EHLE-EHLE,1,1.5,1,,,1.4,,,,,1.5,1.5,,
+29 Jan 99,C172,PH-AMB,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,,
+29 Jan 99,C172,PH-AMB,EHLE-EHGG-EHLE,2,3.0,1,1,,0.9,3,0.2,,3.0,3.0,,,Check Ride / B2 Exam
+14 Mar 99,DV20,PH-USH,EHLE-EHLE,1,0.9,1,,,,,,,,0.9,,,
+18 Mar 99,PA28A,PH-AEF,EHLE-EHRD-EHLE,2,1.9,3,5,1.9,,3,1.9,,1.9,1.9,,,
+19 Mar 99,PA28A,PH-AEF,EHLE-EHBK-EHLE,2,3.5,1,2,3.5,,2,3.5,,3.5,3.5,,,
+2 Apr 99,AS13,PH-405,EHHV-EHHV,1,0.5,1,,,,,,,,,0.5,,Glider
+11 Apr 99,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,,
+15 Apr 99,DV20,PH-USH,EHLE-EHLE,1,0.5,2,,,,,,,,0.5,,,Right Seat
+15 Apr 99,C172,PH-AMB,EHLE-EHLE,1,0.5,2,,,,,,,,0.5,,,Right Seat
+23 Apr 99,C172,PH-AMB,EHLE-EHLE,1,0.7,2,,,,,,,,0.7,,0.7,Wings Intro Flying Lesson
+27 Apr 99,C172,PH-AMB,EHLE-EHLE,1,0.4,2,,,,,,,,0.4,,,Woldiss Photoflight
+1 May 99,C172,PH-BVL,EHLE-EHLE,1,1.8,5,,,,,,,,1.8,,1.8,Wings Intro Flying Lesson
+8 May 99,DV20,PH-USJ,EHLE-EHLE,1,2.0,4,,,,,,,,2.0,,2.0,Wings Intro Flying Lesson
+19 May 99,C172,PH-AMB,EHHV-EHAL-EHHV,2,2.0,2,,,,,,,2.0,2.0,,,Woldiss Ameland Shutlle
+19 May 99,C172,PH-AMB,EHLE-EHHV-EHAL-EHHV,3,2.5,3,,,,,,,2.5,2.5,,,Woldiss Ameland Shutlle
+19 May 99,C172,PH-AMB,EHHV-EHLE-EHAL,1,1.0,2,,,,,,,1.0,1.0,,,
+20 May 99,C172,PH-AMB,EHAL-EHAL,1,0.7,1,,,,,,,,0.7,,,
+21 May 99,C172,PH-AMB,EHHV-EHAL-EHLE,2,1.9,2,,,,,,,1.9,1.9,,,Woldiss Ameland Shutlle
+21 May 99,C172,PH-AMB,EHAL-EHLE-EHHV,2,1.4,2,,,,,,,1.4,1.4,,,Woldiss Ameland Shutlle
+21 May 99,C172,PH-AMB,EHAL-EHLHV-EHAL,2,1.9,2,,,,,,,1.9,1.9,,,Woldiss Ameland Shutlle
+21 May 99,C172,PH-AMB,EHLE-EHLE,1,0.4,1,,,,,,,,0.4,,,Wings Photoflight
+29 May 99,C172,PH-AMB,EHLE-EHLE,1,1.0,1,,,,,,,,1.0,,1.0,Wings Intro Flying Lesson
+29 May 99,DV20,PH-USJ,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+29 May 99,DV20,PH-USJ,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+31 May 99,DV20,PH-USJ,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+4 Jun 99,C172,PH-JBB,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,,Wings Sightseeing
+4 Jun 99,C172,PH-JBB,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,,Wings Sightseeing
+5 Jun 99,C172,PH-JBB,EHLE-EHLE,1,1.0,3,,,,,,,,1.0,,1.0,Wings Intro Flying Lesson (3x)
+5 Jun 99,C172,PH-JBB,EHLE-EHLE,1,1.0,3,,,,,,,,1.0,,1.0,Wings Intro Flying Lesson (3x)
+6 Jun 99,DV20,PH-USJ,EHLE-EHLE,1,2.4,7,,,,,,,,2.4,,2.4,Wings Intro Flying Lesson (7x)
+12 Jun 99,BE23,PH-MBS,EHLE-EHLE,1,2.7,8,,,,,,,,2.7,,,Young Eagles (8x)
+12 Jun 99,BE23,PH-MBS,EHLE-EHLE,1,0.3,1,,,,,,,,0.3,,,
+12 Jun 99,BE23,PH-MBS,EHLE-EHLE,1,1.2,1,,,,,,,,1.2,,,Wings Sightseeing
+12 Jun 99,BE23,PH-MBS,EHLE-EHLE,1,0.4,1,,,,,,,,0.4,,0.4,Wings Intro Flying Lesson
+13 Jun 99,C172,PH-AMB,EHLE-EHBD,1,1.1,1,,,,,,,1.1,1.1,,,Wings Ferry Flight
+13 Jun 99,C172,PH-AMB,EHBE-EHLE,1,0.8,1,,,,,,,0.8,0.8,,,Wings Ferry Flight
+7 Jul 99,C172,PH-AMB,EHLE-EHLE,1,2.5,1,,,,,,,2.5,2.5,,,Wings Photoflight
+9 Jul 99,C172,PH-AMB,EHLE-EHLE,1,1.8,1,,,,,,,1.8,1.8,,,Wings Photoflight
+11 Jul 99,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+11 Jul 99,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+11 Jul 99,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+11 Jul 99,C172,PH-JBB,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,0.8,Wings Intro Flying Lesson
+11 Jul 99,C172,PH-JBB,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,0.8,Wings Intro Flying Lesson
+15 Jul 99,C172,PH-AMB,EHLE-EHLE,1,0.3,1,,,,,,,,0.3,,0.3,Wings Intro Flying Lesson
+17 Jul 99,DV20,PH-USI,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,0.8,Wings Intro Flying Lesson
+17 Jul 99,DV20,PH-USI,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,0.8,Wings Intro Flying Lesson
+19 Jul 99,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+19 Jul 99,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+24 Jul 99,C172,PH-BVL,EHLE-EHLE,1,0.3,1,,,,,,,,0.3,,0.3,Wings Intro Flying Lesson
+28 Jul 99,C172,PH-TWB,EHLE-EHLE,1,0.8,1,,,,,,,,0.8,,,Wings Sightseeing
+30 Jul 99,C172,PH-AMB,EHLE-EHLE,1,2.8,1,,,,,,,2.8,2.8,,,Wings Photoflight
+30 Jul 99,C172,PH-AMB,EHLE-EHLE,1,1.3,1,,,,,,,1.3,1.3,,,Wings Photoflight
+1 Aug 99,DV20,PH-USH,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+1 Aug 99,DV20,PH-USH,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+3 Aug 99,C172,PH-AMB,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,,Wings Sightseeing
+3 Aug 99,C172,PH-AMB,EHLE-EHLE,1,1.0,1,,,,,,,1.0,1.0,,,Wings Photoflight
+4 Aug 99,DV20,PH-USJ,EHLE-EHLE,1,1.0,2,,,,,,,,1.0,,1.0,Wings Intro Flying Lesson (2x)
+4 Aug 99,C172,PH-MBV,EHLE-EHLE,1,1.0,1,,,,,,,1.0,1.0,,,Wings Sightseeing
+9 Aug 99,C172,PH-JBB,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+9 Aug 99,C172,PH-JBB,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+11 Aug 99,C172,PH-AMB,EHLE-LFOS-LFAB-EHLE,3,5.3,3,,,,,,,5.3,5.3,,,Solar Eclipse
+12 Aug 99,DV20,PH-USI,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+13 Aug 99,DV20,PH-USJ,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+13 Aug 99,C172,PH-JBB,EHLE-EHLE,1,1.1,1,,,,,,,1.1,1.1,,,Wings Photoflight
+16 Aug 99,C172,PH-AMB,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+21 Aug 99,C172,PH-TWB,EHLE-EHAL,1,0.9,1,,,,,,,0.9,0.9,,0.9,Wings Intro Flying Lesson
+21 Aug 99,C172,PH-TWB,EHAL-EHTX,1,0.6,1,,,,,,,0.6,0.6,,0.6,Wings Intro Flying Lesson
+21 Aug 99,C172,PH-TWB,EHTX-EHLE,1,0.8,1,,,,,,,0.8,0.8,,0.8,Wings Intro Flying Lesson
+29 Aug 99,BE23,PH-MBS,EHLE-EHLE,1,0.3,1,,,,,,,,0.3,,0.3,Wings Intro Flying Lesson
+31 Aug 99,C172,PH-AMB,EHLE-EHLE,1,1.0,1,,,,,,,1.0,1.0,,,Wings Sightseeing
+31 Aug 99,C172,PH-AMB,EHLE-EHLE,1,0.5,1,,,,,,,,0.5,,0.5,Wings Intro Flying Lesson
+31 Aug 99,C172,PH-AMB,EHLE-EHLE,1,2.0,1,,,,,,,,2.0,2.0,,Banner Towing Endorsement
+17 Dec 99,C172,N23841,KVNY-KVNY,1,1.5,1,,,,,,,,1.5,1.5,,Airplane Checkout
+22 Dec 99,TRIN,N711RP,KVNY-KVNY,1,0.8,1,,,,,,,,0.8,0.8,,
+28 Dec 99,TRIN,N711RP,KVNY-KLGB-KVNY,2,2.6,1,,,,,,,,2.6,2.6,,
+15 Mar 00,TRIN,N711RP,KVNY-KVNY,1,1.3,1,,,,,,,,1.3,1.3,,
+17 Mar 00,TRIN,N711RP,KVNY-KVNY,1,1.4,1,,,,,,,,1.4,1.4,,
+25 Mar 00,C172,PH-AMB,EHLE-EHLE,1,1.0,1,,,0.8,,,,,1.0,,,
+4 Apr 00,C172,PH-AMB,EHLE-EHLE,1,1.2,1,,,1.2,,,,,1.2,,,
+5 Apr 00,C172,PH-AMB,EHLE-EHLE,1,1.1,1,,,,,,,,1.1,,,
+17 Apr 00,PA28A,N8395L,KPOC-KPOC,1,1.1,1,,,,,,,1.1,1.1,,,
+20 Jul 00,PA28R,N39WT,KPOC-KPOC,1,1.2,1,,,,,,,,1.2,,,
+21 Jul 00,PA28R,N39WT,KPOC-KPOC,1,1.3,4,,,,,,,,1.3,,,Chandelles
+22 Jul 00,F132,SIM,KPOC,1,,,,,,,,1.5,,,1.5,,
+24 Jul 00,PA28R,N47455,KPOC-KPOC,1,1.3,1,,,,,,,,1.3,,,Lazy 8, 8 on Pylons, Short/Soft Fld.
+25 Jul 00,PA28R,N15379,KPOC-KPOC,1,1.2,1,,,,,,,,1.2,,,
+26 Jul 00,PA28R,N39WT,KPOC-KCNO,1,1.0,1,,,1.0,3,,,,1.0,,,
+26 Jul 00,PA28R,N39WT,KCNO-KPOC,1,0.9,1,,,0.9,3,,,,0.9,,,
+30 Jul 00,PA28R,N39WT,KPOC-KPOC,1,1.1,1,,,,,,,,1.1,,,
+31 Jul 00,PA28R,N39WT,KPOC-KPOC,1,1.2,4,,,,,,,,1.2,,,Check Ride Commercial
+8 May 01,C172,N5415F,KLGB-KLGB,1,1.0,1,,,,,,,,1.0,1.0,,
+2 Jul 01,C172,N96570,KLGB-KLGB,1,1.3,1,,,,,,,,1.3,,,
+16 Jul 01,C172,N96570,KLGB-KLGB,1,1.3,1,,,,,,,,1.3,,,
+19 Jul 01,C172,N96570,KLGB-KLGB,1,1.0,1,,,,,,,,1.0,1.0,,
+20 Jul 01,F142,N310,KLGB,1,,,,,,,,1.1,,,1.1,,
+23 Jul 01,C172,N96570,KLGB-KLGB,1,0.9,1,,,,,,,,0.9,0.9,,
+24 Dec 01,C172,N79201,KEMT-KEMT,1,0.8,1,,,,,,,,0.8,0.8,,
+6 Apr 03,PA28A,N8091H,KEMT-KEMT,1,2.0,4,,,1.8,3,1.0,,,2.0,2.0,,Flight Review
+16 Aug 03,C172,N172ST,KEMT-KEMT,1,0.9,4,,,,,,,,0.9,,,
+16 Aug 03,C172,N172ST,KEMT-KEMT,1,0.5,1,,,,,,,,0.5,,,Julian's First Flight
+23 Jan 05,C172,N79201,KEMT-KEMT,1,0.8,3,,,,,,,,0.8,0.8,,
+30 Jan 05,C172,N172ST,KEMT-KEMT,1,0.6,1,,,,,,,,0.6,,,
+29 Mar 05,C172,N61848,KCCB-KCCB,1,0.7,1,,,,,,,,0.7,0.7,,Spin / Stall Training
+10 Apr 05,C172,N172ST,KEMT-KEMT,1,0.7,1,,,,,,,,0.7,,,Pax: Phil Irven
+17 Jun 05,C172,N5323D,KEMT-KEMT,1,1.4,4,,,,,,,,1.4,1.4,,Flight Review
+4 Sep 06,C177,N13HK,KWHP-KWHP,1,1.2,1,,,,,,,,1.2,,,
+13 Sep 06,C177,N13HK,KWHP-KWHP,1,1.2,2,,,,,,,,1.2,,,
+19 Sep 06,C177,N13HK,KWHP-KAPV-KWHP,2,2.5,4,,,,,,,2.5,2.5,,,
+20 Sep 06,F141,SIM,KEMT,1,,,,,,6,,1.4,,,1.4,,
+27 Sep 06,C177,N13HK,KWHP-L52-KWHP,2,3.1,2,,,,,,,3.1,3.1,,,
+17 Oct 06,C177,N13HK,KWHP-KEMT-KCCB-KWHP,3,1.5,3,,,,,,,1.5,1.5,,,
+7 Nov 06,C177,N13HK,KWHP-KEMT-KWHP,2,1.0,1,,,,,,,,1.0,,,
+14 Nov 06,C177,N13HK,KWHP-KPSP-KWHP,2,2.5,2,,,,,,,2.5,2.5,,,
+20 Nov 06,C177,N13HK,KWHP-KOXR-KWHP,2,1.2,2,,,0.6,1,,,1.2,1.2,,,
+26 Nov 06,C177,N13HK,KWHP-KEMT-KWHP,2,0.5,1,,,,,,,,0.5,,,
+28 Nov 06,C150,N60760,Spence Pond,1,3.9,20,,,,,,,,3.9,3.9,,
+29 Nov 06,C150,N60760,Spence Pond,1,1.5,10,,,,,,,,1.5,1.5,,
+29 Nov 06,C150,N60760,Spence Pond,1,1.0,4,,,,,,,,1.0,,,ASES Checkride
+30 Nov 06,C150,N60760,Spence Pond,1,2.5,12,,,,,,,2.5,2.5,,,Mountain Lakes
+30 Dec 06,C177,N13HK,KWHP-KAVX-KWHP,2,1.7,2,,,,,,,1.7,1.7,,,Catalina - Avalon
+5 Feb 07,C177,N13HK,KWHP-KHII-KWHP,2,5.4,3,,,,,,,5.4,5.4,,,Lake Havasu
+14 Feb 07,C177,N13HK,KWHP-O60-KWHP,2,7.6,2,,,,,,,7.6,7.6,,,Cloverdale (Sportplanes)
+19 Feb 07,R22,N16HF,KEMT-KEMT,1,0.7,1,,,,,,,,,0.7,,Heli Demo Flight
+4 Mar 07,R22,N16HF,KEMT-KEMT,1,0.6,2,,,,,,,,,0.6,,
+3 Apr 07,C177,N13HK,KWHP-KWHP,1,0.5,5,,,,,,,,0.5,,,
+24 Apr 07,C177,N13HK,KWHP-3O8-KWHP,2,3.5,2,,,,,,,3.5,3.5,,,Harris Ranch
+5 Jul 07,C177,N13HK,KWHP-KWHP,1,1.3,3,4,,,,0.7,,,1.3,,,VFR Night Checkout
+8 Jul 07,C177,N13HK,KWHP-KAVX-KWHP,2,1.4,1,,,,,,,1.4,1.4,,,
+15 Mar 08,C177,N13HK,KWHP-KWHP,1,0.7,5,,,,,,,,0.7,,,Spence Suderman checkout
+20 May 08,C177,N13HK,KWHP-KAPV-KWHP,2,1.0,1,,,,,,,1.0,1.0,,,
+30 Nov 08,C177,N13HK,KWHP-KWHP,1,1.4,5,,,,,,,,1.4,,,Aqua Dulce BFR with Spencer Suderman
+23 Dec 08,C177,N13HK,KWHP-KPOC-KWHP,2,1.1,3,,,,,,,1.1,1.1,,,
+22 Mar 09,C177,N13HK,KWHP-KWHP,1,0.7,3,,,,,,,,0.7,,,Strong winds gusts to 24 kt x-winds
+26 Apr 09,C177,N13HK,KWHP-KTSP-KWHP,2,2.0,2,,,,,,,2.0,2.0,,,
+21 Mar 10,DA40,N661DS,KEMT-KEMT,1,1.3,3,,,,,,,,1.3,1.3,,Check Out Diamond Star at Los Angeles Flight Center
+8 Apr 12,DA40,N805ER,KEMT-KEMT,1,1.0,5,,,,,,,,1.0,1.0,,Check Out Diamond Star at Los Angeles Flight Center
+22 Apr 12,DA40,N805ER,KEMT-F70-KEMT,2,1.6,2,,,,,,,1.6,1.6,,,
+7 Jul 12,DA40,N805ER,KEMT-KEMT,1,0.5,4,,,,,,,,0.5,,,

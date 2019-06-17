@@ -1,0 +1,486 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		641E4BA517ED6CF600AC04AB /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 641E4BA417ED6CF600AC04AB /* Cocoa.framework */; };
+		641E4BAF17ED6CF600AC04AB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 641E4BAD17ED6CF600AC04AB /* InfoPlist.strings */; };
+		641E4BB117ED6CF600AC04AB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 641E4BB017ED6CF600AC04AB /* main.m */; };
+		641E4BB517ED6CF700AC04AB /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 641E4BB317ED6CF700AC04AB /* Credits.rtf */; };
+		641E4BB817ED6CF700AC04AB /* MPLAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 641E4BB717ED6CF700AC04AB /* MPLAppDelegate.m */; };
+		641E4BBB17ED6CF700AC04AB /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 641E4BB917ED6CF700AC04AB /* MainMenu.xib */; };
+		641E4BBD17ED6CF700AC04AB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 641E4BBC17ED6CF700AC04AB /* Images.xcassets */; };
+		641E4BC417ED6CF700AC04AB /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 641E4BC317ED6CF700AC04AB /* XCTest.framework */; };
+		641E4BC517ED6CF700AC04AB /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 641E4BA417ED6CF600AC04AB /* Cocoa.framework */; };
+		641E4BCD17ED6CF700AC04AB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 641E4BCB17ED6CF700AC04AB /* InfoPlist.strings */; };
+		641E4BCF17ED6CF700AC04AB /* McPilot_LogTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 641E4BCE17ED6CF700AC04AB /* McPilot_LogTests.m */; };
+		641E4BDA17ED6D1E00AC04AB /* MPLFileImporter.m in Sources */ = {isa = PBXBuildFile; fileRef = 641E4BD917ED6D1E00AC04AB /* MPLFileImporter.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		641E4BC617ED6CF700AC04AB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 641E4B9917ED6CF600AC04AB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 641E4BA017ED6CF600AC04AB;
+			remoteInfo = "McPilot Log";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		641E4BA117ED6CF600AC04AB /* McPilot Log.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "McPilot Log.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		641E4BA417ED6CF600AC04AB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		641E4BA717ED6CF600AC04AB /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		641E4BA817ED6CF600AC04AB /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		641E4BA917ED6CF600AC04AB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		641E4BAC17ED6CF600AC04AB /* McPilot Log-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "McPilot Log-Info.plist"; sourceTree = "<group>"; };
+		641E4BAE17ED6CF600AC04AB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		641E4BB017ED6CF600AC04AB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		641E4BB217ED6CF700AC04AB /* McPilot Log-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "McPilot Log-Prefix.pch"; sourceTree = "<group>"; };
+		641E4BB417ED6CF700AC04AB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		641E4BB617ED6CF700AC04AB /* MPLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MPLAppDelegate.h; sourceTree = "<group>"; };
+		641E4BB717ED6CF700AC04AB /* MPLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MPLAppDelegate.m; sourceTree = "<group>"; };
+		641E4BBA17ED6CF700AC04AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		641E4BBC17ED6CF700AC04AB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		641E4BC217ED6CF700AC04AB /* McPilot LogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "McPilot LogTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		641E4BC317ED6CF700AC04AB /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		641E4BCA17ED6CF700AC04AB /* McPilot LogTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "McPilot LogTests-Info.plist"; sourceTree = "<group>"; };
+		641E4BCC17ED6CF700AC04AB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		641E4BCE17ED6CF700AC04AB /* McPilot_LogTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = McPilot_LogTests.m; sourceTree = "<group>"; };
+		641E4BD817ED6D1E00AC04AB /* MPLFileImporter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPLFileImporter.h; sourceTree = "<group>"; };
+		641E4BD917ED6D1E00AC04AB /* MPLFileImporter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPLFileImporter.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		641E4B9E17ED6CF600AC04AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				641E4BA517ED6CF600AC04AB /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		641E4BBF17ED6CF700AC04AB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				641E4BC517ED6CF700AC04AB /* Cocoa.framework in Frameworks */,
+				641E4BC417ED6CF700AC04AB /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		641E4B9817ED6CF600AC04AB = {
+			isa = PBXGroup;
+			children = (
+				641E4BAA17ED6CF600AC04AB /* McPilot Log */,
+				641E4BC817ED6CF700AC04AB /* McPilot LogTests */,
+				641E4BA317ED6CF600AC04AB /* Frameworks */,
+				641E4BA217ED6CF600AC04AB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		641E4BA217ED6CF600AC04AB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				641E4BA117ED6CF600AC04AB /* McPilot Log.app */,
+				641E4BC217ED6CF700AC04AB /* McPilot LogTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		641E4BA317ED6CF600AC04AB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				641E4BA417ED6CF600AC04AB /* Cocoa.framework */,
+				641E4BC317ED6CF700AC04AB /* XCTest.framework */,
+				641E4BA617ED6CF600AC04AB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		641E4BA617ED6CF600AC04AB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				641E4BA717ED6CF600AC04AB /* AppKit.framework */,
+				641E4BA817ED6CF600AC04AB /* CoreData.framework */,
+				641E4BA917ED6CF600AC04AB /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		641E4BAA17ED6CF600AC04AB /* McPilot Log */ = {
+			isa = PBXGroup;
+			children = (
+				641E4BB617ED6CF700AC04AB /* MPLAppDelegate.h */,
+				641E4BB717ED6CF700AC04AB /* MPLAppDelegate.m */,
+				641E4BB917ED6CF700AC04AB /* MainMenu.xib */,
+				641E4BBC17ED6CF700AC04AB /* Images.xcassets */,
+				641E4BAB17ED6CF600AC04AB /* Supporting Files */,
+			);
+			path = "McPilot Log";
+			sourceTree = "<group>";
+		};
+		641E4BAB17ED6CF600AC04AB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				641E4BAC17ED6CF600AC04AB /* McPilot Log-Info.plist */,
+				641E4BAD17ED6CF600AC04AB /* InfoPlist.strings */,
+				641E4BB017ED6CF600AC04AB /* main.m */,
+				641E4BB217ED6CF700AC04AB /* McPilot Log-Prefix.pch */,
+				641E4BB317ED6CF700AC04AB /* Credits.rtf */,
+				641E4BD817ED6D1E00AC04AB /* MPLFileImporter.h */,
+				641E4BD917ED6D1E00AC04AB /* MPLFileImporter.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		641E4BC817ED6CF700AC04AB /* McPilot LogTests */ = {
+			isa = PBXGroup;
+			children = (
+				641E4BCE17ED6CF700AC04AB /* McPilot_LogTests.m */,
+				641E4BC917ED6CF700AC04AB /* Supporting Files */,
+			);
+			path = "McPilot LogTests";
+			sourceTree = "<group>";
+		};
+		641E4BC917ED6CF700AC04AB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				641E4BCA17ED6CF700AC04AB /* McPilot LogTests-Info.plist */,
+				641E4BCB17ED6CF700AC04AB /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		641E4BA017ED6CF600AC04AB /* McPilot Log */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 641E4BD217ED6CF700AC04AB /* Build configuration list for PBXNativeTarget "McPilot Log" */;
+			buildPhases = (
+				641E4B9D17ED6CF600AC04AB /* Sources */,
+				641E4B9E17ED6CF600AC04AB /* Frameworks */,
+				641E4B9F17ED6CF600AC04AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "McPilot Log";
+			productName = "McPilot Log";
+			productReference = 641E4BA117ED6CF600AC04AB /* McPilot Log.app */;
+			productType = "com.apple.product-type.application";
+		};
+		641E4BC117ED6CF700AC04AB /* McPilot LogTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 641E4BD517ED6CF700AC04AB /* Build configuration list for PBXNativeTarget "McPilot LogTests" */;
+			buildPhases = (
+				641E4BBE17ED6CF700AC04AB /* Sources */,
+				641E4BBF17ED6CF700AC04AB /* Frameworks */,
+				641E4BC017ED6CF700AC04AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				641E4BC717ED6CF700AC04AB /* PBXTargetDependency */,
+			);
+			name = "McPilot LogTests";
+			productName = "McPilot LogTests";
+			productReference = 641E4BC217ED6CF700AC04AB /* McPilot LogTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		641E4B9917ED6CF600AC04AB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = MPL;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Hans van Riet";
+				TargetAttributes = {
+					641E4BC117ED6CF700AC04AB = {
+						TestTargetID = 641E4BA017ED6CF600AC04AB;
+					};
+				};
+			};
+			buildConfigurationList = 641E4B9C17ED6CF600AC04AB /* Build configuration list for PBXProject "McPilot Log" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 641E4B9817ED6CF600AC04AB;
+			productRefGroup = 641E4BA217ED6CF600AC04AB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				641E4BA017ED6CF600AC04AB /* McPilot Log */,
+				641E4BC117ED6CF700AC04AB /* McPilot LogTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		641E4B9F17ED6CF600AC04AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				641E4BAF17ED6CF600AC04AB /* InfoPlist.strings in Resources */,
+				641E4BBD17ED6CF700AC04AB /* Images.xcassets in Resources */,
+				641E4BB517ED6CF700AC04AB /* Credits.rtf in Resources */,
+				641E4BBB17ED6CF700AC04AB /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		641E4BC017ED6CF700AC04AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				641E4BCD17ED6CF700AC04AB /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		641E4B9D17ED6CF600AC04AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				641E4BB817ED6CF700AC04AB /* MPLAppDelegate.m in Sources */,
+				641E4BDA17ED6D1E00AC04AB /* MPLFileImporter.m in Sources */,
+				641E4BB117ED6CF600AC04AB /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		641E4BBE17ED6CF700AC04AB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				641E4BCF17ED6CF700AC04AB /* McPilot_LogTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		641E4BC717ED6CF700AC04AB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 641E4BA017ED6CF600AC04AB /* McPilot Log */;
+			targetProxy = 641E4BC617ED6CF700AC04AB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		641E4BAD17ED6CF600AC04AB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				641E4BAE17ED6CF600AC04AB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		641E4BB317ED6CF700AC04AB /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				641E4BB417ED6CF700AC04AB /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		641E4BB917ED6CF700AC04AB /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				641E4BBA17ED6CF700AC04AB /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		641E4BCB17ED6CF700AC04AB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				641E4BCC17ED6CF700AC04AB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		641E4BD017ED6CF700AC04AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		641E4BD117ED6CF700AC04AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		641E4BD317ED6CF700AC04AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "McPilot Log/McPilot Log-Prefix.pch";
+				INFOPLIST_FILE = "McPilot Log/McPilot Log-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		641E4BD417ED6CF700AC04AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "McPilot Log/McPilot Log-Prefix.pch";
+				INFOPLIST_FILE = "McPilot Log/McPilot Log-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		641E4BD617ED6CF700AC04AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/McPilot Log.app/Contents/MacOS/McPilot Log";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "McPilot Log/McPilot Log-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "McPilot LogTests/McPilot LogTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		641E4BD717ED6CF700AC04AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/McPilot Log.app/Contents/MacOS/McPilot Log";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "McPilot Log/McPilot Log-Prefix.pch";
+				INFOPLIST_FILE = "McPilot LogTests/McPilot LogTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		641E4B9C17ED6CF600AC04AB /* Build configuration list for PBXProject "McPilot Log" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				641E4BD017ED6CF700AC04AB /* Debug */,
+				641E4BD117ED6CF700AC04AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		641E4BD217ED6CF700AC04AB /* Build configuration list for PBXNativeTarget "McPilot Log" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				641E4BD317ED6CF700AC04AB /* Debug */,
+				641E4BD417ED6CF700AC04AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		641E4BD517ED6CF700AC04AB /* Build configuration list for PBXNativeTarget "McPilot LogTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				641E4BD617ED6CF700AC04AB /* Debug */,
+				641E4BD717ED6CF700AC04AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 641E4B9917ED6CF600AC04AB /* Project object */;
+}
